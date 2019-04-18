@@ -6,4 +6,4 @@ This repository contains the subtitle file(s) in simplified Chinese (zh\_hans) f
 
 ## License
 
-The subtitle file (not the film) is licensed under CC-BY-SA 4.0 International. See [COPYING](COPYING) for details.
+The subtitle file is licensed under CC-BY-SA 4.0 International. See [COPYING](COPYING) for details.
