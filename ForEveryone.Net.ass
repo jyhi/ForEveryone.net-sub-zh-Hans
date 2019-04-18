@@ -756,7 +756,7 @@ Dialogue: 0,0:18:21.23,0:18:23.63,Chinese,,0,0,0,,人们开始上传议案到网
 Dialogue: 0,0:18:23.66,0:18:25.20,English,,0,0,0,,on the Web.
 Dialogue: 0,0:18:23.66,0:18:25.20,Chinese,,0,0,0,,
 Dialogue: 0,0:18:25.23,0:18:28.53,English,,0,0,0,,And all of a sudden, the disparate power
-Dialogue: 0,0:18:25.23,0:18:28.53,Chinese,,0,0,0,,一瞬间，信息差就被打破了
+Dialogue: 0,0:18:25.23,0:18:28.53,Chinese,,0,0,0,,一瞬间就把信息差打破了
 Dialogue: 0,0:18:28.56,0:18:30.20,English,,0,0,0,,over information became equalized.
 Dialogue: 0,0:18:28.56,0:18:30.20,Chinese,,0,0,0,,
 Dialogue: 0,0:18:30.23,0:18:31.80,English,,0,0,0,,I could see the same information
@@ -1183,9 +1183,9 @@ Dialogue: 0,0:27:48.40,0:27:50.73,Chinese,,0,0,0,,蒂姆打开了这扇门
 Dialogue: 0,0:27:50.76,0:27:53.36,English,,0,0,0,,this portal in time.
 Dialogue: 0,0:27:50.76,0:27:53.36,Chinese,,0,0,0,,新时代的大门
 Dialogue: 0,0:27:53.40,0:27:57.53,English,,0,0,0,,We had a small opening in power structures,
-Dialogue: 0,0:27:53.40,0:27:57.53,Chinese,,0,0,0,,
+Dialogue: 0,0:27:53.40,0:27:57.53,Chinese,,0,0,0,,我们有机会改变权力分布的结构
 Dialogue: 0,0:27:57.56,0:27:59.10,English,,0,0,0,,and that was the Web.
-Dialogue: 0,0:27:57.56,0:27:59.10,Chinese,,0,0,0,,
+Dialogue: 0,0:27:57.56,0:27:59.10,Chinese,,0,0,0,,这就是网络
 Dialogue: 0,0:27:59.13,0:28:03.53,English,,0,0,0,,Tim opened the possibility of anyone
 Dialogue: 0,0:27:59.13,0:28:03.53,Chinese,,0,0,0,,蒂姆抛出了一个可能性
 Dialogue: 0,0:28:03.56,0:28:08.43,English,,0,0,0,,to make anything happen on the Web.
@@ -1308,9 +1308,9 @@ Dialogue: 0,0:30:24.60,0:30:27.50,English,,0,0,0,,- You know, Vint and I have al
 Dialogue: 0,0:30:24.60,0:30:27.50,Chinese,,0,0,0,,
 Dialogue: 0,0:30:27.53,0:30:29.06,English,,0,0,0,,by people who just don't get
 Dialogue: 0,0:30:27.53,0:30:29.06,Chinese,,0,0,0,,
-Dialogue: 0,0:30:29.10,0:30:32.83,English,,0,0,0,,a few basic differencesin this world.
+Dialogue: 0,0:30:29.10,0:30:32.83,English,,0,0,0,,a few basic differences in this world.
 Dialogue: 0,0:30:29.10,0:30:32.83,Chinese,,0,0,0,,
-Dialogue: 0,0:30:32.86,0:30:35.30,English,,0,0,0,,So we're gonnasettle this right now
+Dialogue: 0,0:30:32.86,0:30:35.30,English,,0,0,0,,So we're gonna settle this right now
 Dialogue: 0,0:30:32.86,0:30:35.30,Chinese,,0,0,0,,
 Dialogue: 0,0:30:35.33,0:30:36.73,English,,0,0,0,,and get this all sorted out.
 Dialogue: 0,0:30:35.33,0:30:36.73,Chinese,,0,0,0,,
@@ -1318,104 +1318,101 @@ Dialogue: 0,0:30:36.76,0:30:38.86,English,,0,0,0,,So here we go.
 Dialogue: 0,0:30:36.76,0:30:38.86,Chinese,,0,0,0,,
 Dialogue: 0,0:30:38.90,0:30:42.86,English,,0,0,0,,[cheers and applause]
 Dialogue: 0,0:30:38.90,0:30:42.86,Chinese,,0,0,0,,
-Dialogue: 0,0:30:42.90,0:30:46.66,English,,0,0,0,,- To figure out what you'recurious about and pursue it
-Dialogue: 0,0:30:42.90,0:30:46.66,Chinese,,0,0,0,,
-Dialogue: 0,0:30:46.70,0:30:49.50,English,,0,0,0,,and enjoy when it hasan impact on others
-Dialogue: 0,0:30:46.70,0:30:49.50,Chinese,,0,0,0,,
-Dialogue: 0,0:30:49.53,0:30:51.50,English,,0,0,0,,if you've done somethinginteresting
-Dialogue: 0,0:30:49.53,0:30:51.50,Chinese,,0,0,0,,
-Dialogue: 0,0:30:51.53,0:30:54.73,English,,0,0,0,,and worry less about whose nameis being inscribed where
-Dialogue: 0,0:30:51.53,0:30:54.73,Chinese,,0,0,0,,
+Dialogue: 0,0:30:42.90,0:30:46.66,English,,0,0,0,,- To figure out what you're curious about and pursue it
+Dialogue: 0,0:30:42.90,0:30:46.66,Chinese,,0,0,0,,- 找到你感兴趣的事情，然后追求实现它
+Dialogue: 0,0:30:46.70,0:30:49.50,English,,0,0,0,,and enjoy when it has an impact on others
+Dialogue: 0,0:30:46.70,0:30:49.50,Chinese,,0,0,0,,享受给别人带来好处
+Dialogue: 0,0:30:49.53,0:30:51.50,English,,0,0,0,,if you've done something interesting
+Dialogue: 0,0:30:49.53,0:30:51.50,Chinese,,0,0,0,,做些有趣的事情
+Dialogue: 0,0:30:51.53,0:30:54.73,English,,0,0,0,,and worry less about whose name is being inscribed where
+Dialogue: 0,0:30:51.53,0:30:54.73,Chinese,,0,0,0,,不用太担心谁会因此得到名望
 Dialogue: 0,0:30:54.76,0:30:56.20,English,,0,0,0,,for having done it,
 Dialogue: 0,0:30:54.76,0:30:56.20,Chinese,,0,0,0,,
 Dialogue: 0,0:30:56.23,0:30:57.86,English,,0,0,0,,that seems, to me, one of the gifts
-Dialogue: 0,0:30:56.23,0:30:57.86,Chinese,,0,0,0,,
+Dialogue: 0,0:30:56.23,0:30:57.86,Chinese,,0,0,0,,对我来说
 Dialogue: 0,0:30:57.90,0:31:00.30,English,,0,0,0,,that Tim is offering
-Dialogue: 0,0:30:57.90,0:31:00.30,Chinese,,0,0,0,,
-Dialogue: 0,0:31:00.33,0:31:03.06,English,,0,0,0,,in the wayin which he has handled
-Dialogue: 0,0:31:00.33,0:31:03.06,Chinese,,0,0,0,,
+Dialogue: 0,0:30:57.90,0:31:00.30,Chinese,,0,0,0,,这是蒂姆带来的一个启示
+Dialogue: 0,0:31:00.33,0:31:03.06,English,,0,0,0,,in the way in which he has handled
+Dialogue: 0,0:31:00.33,0:31:03.06,Chinese,,0,0,0,,他在万维网的爆炸式发展中
 Dialogue: 0,0:31:03.10,0:31:04.86,English,,0,0,0,,his own role
-Dialogue: 0,0:31:03.10,0:31:04.86,Chinese,,0,0,0,,
+Dialogue: 0,0:31:03.10,0:31:04.86,Chinese,,0,0,0,,贯彻的原则
 Dialogue: 0,0:31:04.90,0:31:08.70,English,,0,0,0,,in the explosion of the Web.
 Dialogue: 0,0:31:04.90,0:31:08.70,Chinese,,0,0,0,,
 Dialogue: 0,0:31:08.73,0:31:11.56,English,,0,0,0,,♪
-Dialogue: 0,0:31:08.73,0:31:11.56,Chinese,,0,0,0,,
-Dialogue: 0,0:31:11.60,0:31:14.96,English,,0,0,0,,-The development of technologyis as much about the users
-Dialogue: 0,0:31:11.60,0:31:14.96,Chinese,,0,0,0,,
-Dialogue: 0,0:31:15.00,0:31:18.03,English,,0,0,0,,and about the way that usersshape and use technology
-Dialogue: 0,0:31:15.00,0:31:18.03,Chinese,,0,0,0,,
+Dialogue: 0,0:31:11.60,0:31:14.96,English,,0,0,0,,-The development of technology is as much about the users
+Dialogue: 0,0:31:11.60,0:31:14.96,Chinese,,0,0,0,,技术的发展和用户息息相关
+Dialogue: 0,0:31:15.00,0:31:18.03,English,,0,0,0,,and about the way that users shape and use technology
+Dialogue: 0,0:31:15.00,0:31:18.03,Chinese,,0,0,0,,使用技术的方式塑造了技术
 Dialogue: 0,0:31:18.06,0:31:20.93,English,,0,0,0,,as about those lone inventors.
-Dialogue: 0,0:31:18.06,0:31:20.93,Chinese,,0,0,0,,
+Dialogue: 0,0:31:18.06,0:31:20.93,Chinese,,0,0,0,,？
 Dialogue: 0,0:31:20.96,0:31:23.03,English,,0,0,0,,♪
-Dialogue: 0,0:31:20.96,0:31:23.03,Chinese,,0,0,0,,
 Dialogue: 0,0:31:23.06,0:31:25.13,English,,0,0,0,,Going forward, it will be really important
-Dialogue: 0,0:31:23.06,0:31:25.13,Chinese,,0,0,0,,
+Dialogue: 0,0:31:23.06,0:31:25.13,Chinese,,0,0,0,,在将来，有个很重要的事情就是
 Dialogue: 0,0:31:25.16,0:31:26.93,English,,0,0,0,,for us to continue to see this
-Dialogue: 0,0:31:25.16,0:31:26.93,Chinese,,0,0,0,,
+Dialogue: 0,0:31:25.16,0:31:26.93,Chinese,,0,0,0,,我们要把网络
 Dialogue: 0,0:31:26.96,0:31:31.23,English,,0,0,0,,as a living, breathing, growing thing.
-Dialogue: 0,0:31:26.96,0:31:31.23,Chinese,,0,0,0,,
-Dialogue: 0,0:31:31.26,0:31:33.70,English,,0,0,0,,We are all responsiblefor this technology,
-Dialogue: 0,0:31:31.26,0:31:33.70,Chinese,,0,0,0,,
+Dialogue: 0,0:31:26.96,0:31:31.23,Chinese,,0,0,0,,作为一个活生生的、不断成长的事物
+Dialogue: 0,0:31:31.26,0:31:33.70,English,,0,0,0,,We are all responsible for this technology,
+Dialogue: 0,0:31:31.26,0:31:33.70,Chinese,,0,0,0,,我们都有对这个技术的责任
 Dialogue: 0,0:31:33.73,0:31:37.13,English,,0,0,0,,and we can all help shape it.
-Dialogue: 0,0:31:33.73,0:31:37.13,Chinese,,0,0,0,,
-Dialogue: 0,0:31:37.16,0:31:40.70,English,,0,0,0,,- I used to thinkthe problems of the world,
-Dialogue: 0,0:31:37.16,0:31:40.70,Chinese,,0,0,0,,
-Dialogue: 0,0:31:40.73,0:31:42.96,English,,0,0,0,,particularly nowwe're so global,
-Dialogue: 0,0:31:40.73,0:31:42.96,Chinese,,0,0,0,,
-Dialogue: 0,0:31:43.00,0:31:47.13,English,,0,0,0,,are more than the human mindcan manage.
-Dialogue: 0,0:31:43.00,0:31:47.13,Chinese,,0,0,0,,
-Dialogue: 0,0:31:47.16,0:31:51.36,English,,0,0,0,,And I used to thinkthat perhaps we would breed
-Dialogue: 0,0:31:47.16,0:31:51.36,Chinese,,0,0,0,,
-Dialogue: 0,0:31:51.40,0:31:54.40,English,,0,0,0,,a more intelligent racethat could solve them.
-Dialogue: 0,0:31:51.40,0:31:54.40,Chinese,,0,0,0,,
+Dialogue: 0,0:31:33.73,0:31:37.13,Chinese,,0,0,0,,我们也可以帮忙塑造它
+Dialogue: 0,0:31:37.16,0:31:40.70,English,,0,0,0,,- I used to think the problems of the world,
+Dialogue: 0,0:31:37.16,0:31:40.70,Chinese,,0,0,0,,- 我曾经思考世界中的问题
+Dialogue: 0,0:31:40.73,0:31:42.96,English,,0,0,0,,particularly now we're so global,
+Dialogue: 0,0:31:40.73,0:31:42.96,Chinese,,0,0,0,,特别是全球化之后
+Dialogue: 0,0:31:43.00,0:31:47.13,English,,0,0,0,,are more than the human mind can manage.
+Dialogue: 0,0:31:43.00,0:31:47.13,Chinese,,0,0,0,,一个人的思想无法接受所有东西
+Dialogue: 0,0:31:47.16,0:31:51.36,English,,0,0,0,,And I used to think that perhaps we would breed
+Dialogue: 0,0:31:47.16,0:31:51.36,Chinese,,0,0,0,,我曾经认为，也许我们可以创造一个
+Dialogue: 0,0:31:51.40,0:31:54.40,English,,0,0,0,,a more intelligent race that could solve them.
+Dialogue: 0,0:31:51.40,0:31:54.40,Chinese,,0,0,0,,更智能的物种来解决这些问题
 Dialogue: 0,0:31:54.43,0:31:56.73,English,,0,0,0,,But perhaps the solution
-Dialogue: 0,0:31:54.43,0:31:56.73,Chinese,,0,0,0,,
+Dialogue: 0,0:31:54.43,0:31:56.73,Chinese,,0,0,0,,但也许真正的解决方案
 Dialogue: 0,0:31:56.76,0:31:59.73,English,,0,0,0,,is the solution of swarms.
-Dialogue: 0,0:31:56.76,0:31:59.73,Chinese,,0,0,0,,
+Dialogue: 0,0:31:56.76,0:31:59.73,Chinese,,0,0,0,,是群体
 Dialogue: 0,0:31:59.76,0:32:02.06,English,,0,0,0,,Look how clever ants are,
-Dialogue: 0,0:31:59.76,0:32:02.06,Chinese,,0,0,0,,
-Dialogue: 0,0:32:02.10,0:32:04.26,English,,0,0,0,,and they haven't gotmuch of a brain.
-Dialogue: 0,0:32:02.10,0:32:04.26,Chinese,,0,0,0,,
-Dialogue: 0,0:32:04.30,0:32:08.76,English,,0,0,0,,And so we really have to beas clever as a swarm.
-Dialogue: 0,0:32:04.30,0:32:08.76,Chinese,,0,0,0,,
+Dialogue: 0,0:31:59.76,0:32:02.06,Chinese,,0,0,0,,看看蚂蚁有多聪明
+Dialogue: 0,0:32:02.10,0:32:04.26,English,,0,0,0,,and they haven't got much of a brain.
+Dialogue: 0,0:32:02.10,0:32:04.26,Chinese,,0,0,0,,即使它们甚至没个像样的大脑
+Dialogue: 0,0:32:04.30,0:32:08.76,English,,0,0,0,,And so we really have to be as clever as a swarm.
+Dialogue: 0,0:32:04.30,0:32:08.76,Chinese,,0,0,0,,我们要像这样的群体一样聪明
 Dialogue: 0,0:32:08.80,0:32:10.80,English,,0,0,0,,And the Web will do that.
-Dialogue: 0,0:32:08.80,0:32:10.80,Chinese,,0,0,0,,
+Dialogue: 0,0:32:08.80,0:32:10.80,Chinese,,0,0,0,,万维网可以做到
 Dialogue: 0,0:32:10.83,0:32:12.60,English,,0,0,0,,So we've got to learn to use
-Dialogue: 0,0:32:10.83,0:32:12.60,Chinese,,0,0,0,,
-Dialogue: 0,0:32:12.63,0:32:16.50,English,,0,0,0,,collective intelligencepeacefully,
-Dialogue: 0,0:32:12.63,0:32:16.50,Chinese,,0,0,0,,
-Dialogue: 0,0:32:16.53,0:32:19.03,English,,0,0,0,,and a lot of problemswill get solved that way.
-Dialogue: 0,0:32:16.53,0:32:19.03,Chinese,,0,0,0,,
+Dialogue: 0,0:32:10.83,0:32:12.60,Chinese,,0,0,0,,我们必须学会
+Dialogue: 0,0:32:12.63,0:32:16.50,English,,0,0,0,,collective intelligence peacefully,
+Dialogue: 0,0:32:12.63,0:32:16.50,Chinese,,0,0,0,,如何和平地使用群体智能
+Dialogue: 0,0:32:16.53,0:32:19.03,English,,0,0,0,,and a lot of problems will get solved that way.
+Dialogue: 0,0:32:16.53,0:32:19.03,Chinese,,0,0,0,,然后这样解决大批的问题
 Dialogue: 0,0:32:19.06,0:32:20.93,English,,0,0,0,,♪
-Dialogue: 0,0:32:19.06,0:32:20.93,Chinese,,0,0,0,,
-Dialogue: 0,0:32:20.96,0:32:23.43,English,,0,0,0,,-The spirit of the Webwas very much one
-Dialogue: 0,0:32:20.96,0:32:23.43,Chinese,,0,0,0,,
+Dialogue: 0,0:32:20.96,0:32:23.43,English,,0,0,0,,-The spirit of the Web was very much one
+Dialogue: 0,0:32:20.96,0:32:23.43,Chinese,,0,0,0,,万维网的精神基本上是
 Dialogue: 0,0:32:23.46,0:32:26.53,English,,0,0,0,,of international collaboration, working together,
-Dialogue: 0,0:32:23.46,0:32:26.53,Chinese,,0,0,0,,
-Dialogue: 0,0:32:26.56,0:32:28.83,English,,0,0,0,,people coding up thingsin the middle of the night--
-Dialogue: 0,0:32:26.56,0:32:28.83,Chinese,,0,0,0,,
-Dialogue: 0,0:32:28.86,0:32:31.60,English,,0,0,0,,in the same spiritas the spirit of the Olympics.
-Dialogue: 0,0:32:28.86,0:32:31.60,Chinese,,0,0,0,,
+Dialogue: 0,0:32:23.46,0:32:26.53,Chinese,,0,0,0,,国际合作、共同努力
+Dialogue: 0,0:32:26.56,0:32:28.83,English,,0,0,0,,people coding up things in the middle of the night--
+Dialogue: 0,0:32:26.56,0:32:28.83,Chinese,,0,0,0,,人们一起半夜三更地写代码
+Dialogue: 0,0:32:28.86,0:32:31.60,English,,0,0,0,,in the same spirit as the spirit of the Olympics.
+Dialogue: 0,0:32:28.86,0:32:31.60,Chinese,,0,0,0,,就像奥林匹克精神一样
 Dialogue: 0,0:32:31.63,0:32:35.60,English,,0,0,0,,[cheers and applause]
 Dialogue: 0,0:32:31.63,0:32:35.60,Chinese,,0,0,0,,
-Dialogue: 0,0:32:35.63,0:32:38.16,English,,0,0,0,,The Olympics were amazinglike that.
-Dialogue: 0,0:32:35.63,0:32:38.16,Chinese,,0,0,0,,
-Dialogue: 0,0:32:38.20,0:32:40.96,English,,0,0,0,,You know, there were15,000 volunteers.
-Dialogue: 0,0:32:38.20,0:32:40.96,Chinese,,0,0,0,,
-Dialogue: 0,0:32:41.00,0:32:43.10,English,,0,0,0,,A huge number of themall dancing different dances
-Dialogue: 0,0:32:41.00,0:32:43.10,Chinese,,0,0,0,,
-Dialogue: 0,0:32:43.13,0:32:47.16,English,,0,0,0,,in completely differentcostumes all doing their thing.
-Dialogue: 0,0:32:43.13,0:32:47.16,Chinese,,0,0,0,,
+Dialogue: 0,0:32:35.63,0:32:38.16,English,,0,0,0,,The Olympics were amazing like that.
+Dialogue: 0,0:32:35.63,0:32:38.16,Chinese,,0,0,0,,奥林匹克在这方面相当杰出
+Dialogue: 0,0:32:38.20,0:32:40.96,English,,0,0,0,,You know, there were 15,000 volunteers.
+Dialogue: 0,0:32:38.20,0:32:40.96,Chinese,,0,0,0,,想想看，15000个志愿者
+Dialogue: 0,0:32:41.00,0:32:43.10,English,,0,0,0,,A huge number of them all dancing different dances
+Dialogue: 0,0:32:41.00,0:32:43.10,Chinese,,0,0,0,,聚在一起，跳着不同的舞蹈
+Dialogue: 0,0:32:43.13,0:32:47.16,English,,0,0,0,,in completely different costumes all doing their thing.
+Dialogue: 0,0:32:43.13,0:32:47.16,Chinese,,0,0,0,,穿着完全不同的服饰做着各自的事情
 Dialogue: 0,0:32:47.20,0:32:49.10,English,,0,0,0,,They had me sitting there
-Dialogue: 0,0:32:47.20,0:32:49.10,Chinese,,0,0,0,,
-Dialogue: 0,0:32:49.13,0:32:50.66,English,,0,0,0,,and typing somethingon a keyboard
-Dialogue: 0,0:32:49.13,0:32:50.66,Chinese,,0,0,0,,
-Dialogue: 0,0:32:50.70,0:32:53.43,English,,0,0,0,,which would be sent aroundthe auditorium.
-Dialogue: 0,0:32:50.70,0:32:53.43,Chinese,,0,0,0,,
-Dialogue: 0,0:32:53.46,0:32:57.00,English,,0,0,0,,Just before we went onstage,
-Dialogue: 0,0:32:53.46,0:32:57.00,Chinese,,0,0,0,,
-Dialogue: 0,0:32:57.03,0:33:00.13,English,,0,0,0,,I said, "Is it okayto tweet that at the same time?"
-Dialogue: 0,0:32:57.03,0:33:00.13,Chinese,,0,0,0,,
+Dialogue: 0,0:32:47.20,0:32:49.10,Chinese,,0,0,0,,当时我要坐在台上
+Dialogue: 0,0:32:49.13,0:32:50.66,English,,0,0,0,,and typing something on a keyboard
+Dialogue: 0,0:32:49.13,0:32:50.66,Chinese,,0,0,0,,拿着个键盘打字
+Dialogue: 0,0:32:50.70,0:32:53.43,English,,0,0,0,,which would be sent around the auditorium.
+Dialogue: 0,0:32:50.70,0:32:53.43,Chinese,,0,0,0,,打出全场的标语
+Dialogue: 0,0:32:53.46,0:32:57.00,English,,0,0,0,,Just before we went on stage,
+Dialogue: 0,0:32:53.46,0:32:57.00,Chinese,,0,0,0,,上台之前
+Dialogue: 0,0:32:57.03,0:33:00.13,English,,0,0,0,,I said, "Is it okay to tweet that at the same time?"
+Dialogue: 0,0:32:57.03,0:33:00.13,Chinese,,0,0,0,,我问了句：“我能同时发条推吗？”
 Dialogue: 0,0:33:00.16,0:33:02.00,English,,0,0,0,,[cheers and applause]
 Dialogue: 0,0:33:00.16,0:33:02.00,Chinese,,0,0,0,,
 Dialogue: 0,0:33:02.03,0:33:03.63,English,,0,0,0,,-It was because Tim
@@ -1424,11 +1421,11 @@ Dialogue: 0,0:33:03.66,0:33:06.46,English,,0,0,0,,so casually but resolutely
 Dialogue: 0,0:33:03.66,0:33:06.46,Chinese,,0,0,0,,
 Dialogue: 0,0:33:06.50,0:33:09.50,English,,0,0,0,,made this, as he put it,
 Dialogue: 0,0:33:06.50,0:33:09.50,Chinese,,0,0,0,,
-Dialogue: 0,0:33:09.53,0:33:11.86,English,,0,0,0,,in the line he was askedto tweet
+Dialogue: 0,0:33:09.53,0:33:11.86,English,,0,0,0,,in the line he was asked to tweet
 Dialogue: 0,0:33:09.53,0:33:11.86,Chinese,,0,0,0,,
 Dialogue: 0,0:33:11.90,0:33:13.93,English,,0,0,0,,in the middle of the Olympics
 Dialogue: 0,0:33:11.90,0:33:13.93,Chinese,,0,0,0,,
-Dialogue: 0,0:33:13.96,0:33:16.03,English,,0,0,0,,with fully more than halfof the viewers wondering,
+Dialogue: 0,0:33:13.96,0:33:16.03,English,,0,0,0,,with fully more than half of the viewers wondering,
 Dialogue: 0,0:33:13.96,0:33:16.03,Chinese,,0,0,0,,
 Dialogue: 0,0:33:16.06,0:33:17.56,English,,0,0,0,,"Who is this guy?"
 Dialogue: 0,0:33:16.06,0:33:17.56,Chinese,,0,0,0,,
@@ -1438,23 +1435,23 @@ Dialogue: 0,0:33:21.53,0:33:22.76,English,,0,0,0,,And he meant it.
 Dialogue: 0,0:33:21.53,0:33:22.76,Chinese,,0,0,0,,
 Dialogue: 0,0:33:22.80,0:33:24.53,English,,0,0,0,,He lived it.
 Dialogue: 0,0:33:22.80,0:33:24.53,Chinese,,0,0,0,,
-Dialogue: 0,0:33:24.56,0:33:28.73,English,,0,0,0,,This is for everyone.Do with it as you please.
+Dialogue: 0,0:33:24.56,0:33:28.73,English,,0,0,0,,This is for everyone. Do with it as you please.
 Dialogue: 0,0:33:24.56,0:33:28.73,Chinese,,0,0,0,,
 Dialogue: 0,0:33:28.76,0:33:30.20,English,,0,0,0,,-When I pressed the button,
 Dialogue: 0,0:33:28.76,0:33:30.20,Chinese,,0,0,0,,
-Dialogue: 0,0:33:30.23,0:33:32.40,English,,0,0,0,,I felt I was doing itfor everybody--
+Dialogue: 0,0:33:30.23,0:33:32.40,English,,0,0,0,,I felt I was doing it for everybody--
 Dialogue: 0,0:33:30.23,0:33:32.40,Chinese,,0,0,0,,
-Dialogue: 0,0:33:32.43,0:33:34.93,English,,0,0,0,,for all the geeks that hadcollaborated internationally
+Dialogue: 0,0:33:32.43,0:33:34.93,English,,0,0,0,,for all the geeks that had collaborated internationally
 Dialogue: 0,0:33:32.43,0:33:34.93,Chinese,,0,0,0,,
 Dialogue: 0,0:33:34.96,0:33:37.70,English,,0,0,0,,over the years.
 Dialogue: 0,0:33:34.96,0:33:37.70,Chinese,,0,0,0,,
-Dialogue: 0,0:33:37.73,0:33:40.56,English,,0,0,0,,Our hope in life comesfrom the interconnectedness
+Dialogue: 0,0:33:37.73,0:33:40.56,English,,0,0,0,,Our hope in life comes from the interconnectedness
 Dialogue: 0,0:33:37.73,0:33:40.56,Chinese,,0,0,0,,
 Dialogue: 0,0:33:40.60,0:33:42.83,English,,0,0,0,,of all the people in the world.
 Dialogue: 0,0:33:40.60,0:33:42.83,Chinese,,0,0,0,,
-Dialogue: 0,0:33:42.86,0:33:45.33,English,,0,0,0,,The experience of seeingthe Web take off
+Dialogue: 0,0:33:42.86,0:33:45.33,English,,0,0,0,,The experience of seeing the Web take off
 Dialogue: 0,0:33:42.86,0:33:45.33,Chinese,,0,0,0,,
-Dialogue: 0,0:33:45.36,0:33:48.16,English,,0,0,0,,by the grassroots effortof thousands
+Dialogue: 0,0:33:45.36,0:33:48.16,English,,0,0,0,,by the grassroots effort of thousands
 Dialogue: 0,0:33:45.36,0:33:48.16,Chinese,,0,0,0,,
 Dialogue: 0,0:33:48.20,0:33:50.43,English,,0,0,0,,gives me a tremendous hope
 Dialogue: 0,0:33:48.20,0:33:50.43,Chinese,,0,0,0,,
@@ -1472,9 +1469,9 @@ Dialogue: 0,0:34:04.03,0:34:05.76,English,,0,0,0,,We build it now
 Dialogue: 0,0:34:04.03,0:34:05.76,Chinese,,0,0,0,,
 Dialogue: 0,0:34:05.80,0:34:07.33,English,,0,0,0,,so that those who come later
 Dialogue: 0,0:34:05.80,0:34:07.33,Chinese,,0,0,0,,
-Dialogue: 0,0:34:07.36,0:34:10.26,English,,0,0,0,,will be able to creategreat things
+Dialogue: 0,0:34:07.36,0:34:10.26,English,,0,0,0,,will be able to create great things
 Dialogue: 0,0:34:07.36,0:34:10.26,Chinese,,0,0,0,,
-Dialogue: 0,0:34:10.30,0:34:13.93,English,,0,0,0,,that we cannotourselves imagine.
+Dialogue: 0,0:34:10.30,0:34:13.93,English,,0,0,0,,that we cannot ourselves imagine.
 Dialogue: 0,0:34:10.30,0:34:13.93,Chinese,,0,0,0,,
 Dialogue: 0,0:34:13.96,0:34:16.93,English,,0,0,0,,[inspiring music]
 Dialogue: 0,0:34:13.96,0:34:16.93,Chinese,,0,0,0,,
