@@ -1,8 +1,10 @@
 # Simplified Chinese Translation for [ForEveryone.Net][link]
 
-This repository contains the subtitle file(s) in simplified Chinese (zh\_hans) for the film [ForEveryone.net][link], illustrating the origin of World Wide Web (WWW) and the process of its development.
+This repository contains the subtitle file(s) in Simplified Chinese (zh\_hans) for the film _[ForEveryone.net: The web, past and future][link]_, directed by [Jessica Yu][jyu], and published by [The Web Foundation][twf], illustrating the origin of World Wide Web (WWW) and the process of its development.
 
 [link]: https://foreveryone.net
+[jyu]:  https://www.jessicayu.net
+[twf]:  https://webfoundation.org
 
 ## License
 
