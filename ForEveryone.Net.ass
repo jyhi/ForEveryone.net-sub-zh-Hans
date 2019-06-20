@@ -15,8 +15,8 @@ Original Script: Unknown
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Chinese,Noto Sans CJK SC,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,36,1
 Style: English,Noto Sans,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,20,1
-Style: On Screen,Noto Sans CJK SC,128,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: On Screen - Smaller,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: On Screen,Noto Sans CJK SC,128,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
+Style: On Screen - Smaller,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
 Style: Comments,Noto Sans CJK SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,4,10,10,10,1
 
 [Events]
@@ -104,8 +104,8 @@ Dialogue: 0,0:02:14.98,0:02:17.41,English,,0,0,0,,I can use the Web.
 Dialogue: 0,0:02:14.98,0:02:17.41,Chinese,,0,0,0,,我可以上网
 Dialogue: 0,0:02:17.44,0:02:19.65,English,,0,0,0,,There are thousands of people
 Dialogue: 0,0:02:17.44,0:02:19.65,Chinese,,0,0,0,,数以千计的人
-Dialogue: 0,0:02:19.88,0:02:24.81,On Screen,,0,0,0,,{\pos(380,708), \fad(500, 500)}杰夫·贾菲
-Dialogue: 0,0:02:19.88,0:02:24.81,On Screen - Smaller,,0,0,0,,{\pos(512,776), \fad(500, 500)}万维网联盟执行董事长
+Dialogue: 0,0:02:19.88,0:02:24.81,On Screen,,0,0,0,,{\fad(500,500)\pos(192,560)}杰夫·贾菲
+Dialogue: 0,0:02:19.88,0:02:24.81,On Screen - Smaller,,0,0,0,,{\fad(500,500)\pos(192,665)}万维网联盟执行董事长
 Dialogue: 0,0:02:19.68,0:02:23.25,English,,0,0,0,,who are probably more famous than Tim Berners-Lee.
 Dialogue: 0,0:02:19.68,0:02:23.25,Chinese,,0,0,0,,他们也许都比蒂姆·伯纳斯-李有名得多
 Dialogue: 0,0:02:23.28,0:02:26.98,English,,0,0,0,,And yet, not one of them has had the impact of Tim Berners-Lee.
@@ -120,14 +120,14 @@ Dialogue: 0,0:02:32.48,0:02:34.21,English,,0,0,0,,No, I haven't.
 Dialogue: 0,0:02:32.48,0:02:34.21,Chinese,,0,0,0,,没听说过
 Dialogue: 0,0:02:34.25,0:02:39.31,English,,0,0,0,,For what he's created, it's kind of a surprise that we don't know who he is.
 Dialogue: 0,0:02:34.25,0:02:39.31,Chinese,,0,0,0,,我们竟然不知道这是他创造出来的，这让我有点吃惊
-Dialogue: 0,0:02:39.26,0:02:42.57,On Screen,,0,0,0,,{\fad(500,500)\pos(480,696)}乔纳森·斯特兰
-Dialogue: 0,0:02:39.26,0:02:42.57,On Screen - Smaller,,0,0,0,,{\fad(500,500)\pos(516,768)}法律与计算机科学教授
+Dialogue: 0,0:02:39.26,0:02:42.57,On Screen,,0,0,0,,{\fad(500,500)\pos(200,560)}乔纳森·斯特兰
+Dialogue: 0,0:02:39.26,0:02:42.57,On Screen - Smaller,,0,0,0,,{\fad(500,500)\pos(200,665)}法律与计算机科学教授
 Dialogue: 0,0:02:39.35,0:02:42.75,English,,0,0,0,,The fact that they might not have heard of Tim
 Dialogue: 0,0:02:39.35,0:02:42.75,Chinese,,0,0,0,,人们没听说过蒂姆
 Dialogue: 0,0:02:42.78,0:02:45.11,English,,0,0,0,,is thanks to Tim.
 Dialogue: 0,0:02:42.78,0:02:45.11,Chinese,,0,0,0,,是托蒂姆的福
-Dialogue: 0,0:02:45.06,0:02:49.92,On Screen,,0,0,0,,{\pos(484,708), \fad(500, 500)}蒂姆·伯纳斯-李
-Dialogue: 0,0:02:45.06,0:02:49.92,On Screen - Smaller,,0,0,0,,{\pos(380,780), \fad(500, 500)}万维网发明者
+Dialogue: 0,0:02:45.06,0:02:49.92,On Screen,,0,0,0,,{\fad(500,500)\pos(192,560)}蒂姆·伯纳斯-李
+Dialogue: 0,0:02:45.06,0:02:49.92,On Screen - Smaller,,0,0,0,,{\fad(500,500)\pos(192,665)}万维网发明者
 Dialogue: 0,0:02:45.15,0:02:47.55,English,,0,0,0,,Oh, I'm very happy that I'm not a household name.
 Dialogue: 0,0:02:45.15,0:02:47.55,Chinese,,0,0,0,,噢，我很高兴我并不是家喻户晓
 Dialogue: 0,0:02:47.58,0:02:52.08,English,,0,0,0,,I think that must be... must be very horrible.
@@ -142,8 +142,8 @@ Dialogue: 0,0:03:03.18,0:03:07.11,English,,0,0,0,,stored program computer — th
 Dialogue: 0,0:03:03.18,0:03:07.11,Chinese,,0,0,0,,存储程序计算机——曼彻斯特大学马克一号
 Dialogue: 0,0:03:10.98,0:03:12.55,English,,0,0,0,,I was looking for a job.
 Dialogue: 0,0:03:10.98,0:03:12.55,Chinese,,0,0,0,,我那时在找工作
-Dialogue: 0,0:03:13.50,0:03:19.36,On Screen,,0,0,0,,{\pos(1360,700), \fad(500, 500)}玛丽·李·伯纳斯-李
-Dialogue: 0,0:03:13.50,0:03:19.36,On Screen - Smaller,,0,0,0,,{\pos(1500,776), \fad(500, 500)}数学家、程序员
+Dialogue: 0,0:03:13.50,0:03:19.36,On Screen,,0,0,0,,{\fad(500,500)\pos(992,560)}玛丽·李·伯纳斯-李
+Dialogue: 0,0:03:13.50,0:03:19.36,On Screen - Smaller,,0,0,0,,{\fad(500,500)\pos(1270,665)}数学家、程序员
 Dialogue: 0,0:03:12.58,0:03:14.51,English,,0,0,0,,I saw an advertisement saying,
 Dialogue: 0,0:03:12.58,0:03:14.51,Chinese,,0,0,0,,我看见一则广告说
 Dialogue: 0,0:03:14.55,0:03:20.31,English,,0,0,0,,"mathematicians required to work on a digital computer in Manchester."
@@ -258,8 +258,8 @@ Dialogue: 0,0:05:53.88,0:05:57.41,English,,0,0,0,,What matters is the connection
 Dialogue: 0,0:05:53.88,0:05:57.41,Chinese,,0,0,0,,重要的是连接
 Dialogue: 0,0:06:16.18,0:06:18.18,English,,0,0,0,,There were many different people
 Dialogue: 0,0:06:16.18,0:06:18.18,Chinese,,0,0,0,,以前有很多人
-Dialogue: 0,0:06:18.10,0:06:22.25,On Screen,,0,0,0,,{\pos(424,688), \fad(500, 500)}蒂莉·布莱思
-Dialogue: 0,0:06:18.10,0:06:22.25,On Screen - Smaller,,0,0,0,,{\pos(480,764), \fad(500, 500)}伦敦科学博物馆馆长
+Dialogue: 0,0:06:18.10,0:06:22.25,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}蒂莉·布莱思
+Dialogue: 0,0:06:18.10,0:06:22.25,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}伦敦科学博物馆馆长
 Dialogue: 0,0:06:18.21,0:06:20.55,English,,0,0,0,,who thought about how you might categorize and link
 Dialogue: 0,0:06:18.21,0:06:20.55,Chinese,,0,0,0,,想过可以怎样分类、关联
 Dialogue: 0,0:06:20.58,0:06:22.35,English,,0,0,0,,and share information,
@@ -310,8 +310,8 @@ Dialogue: 0,0:07:20.48,0:07:22.28,English,,0,0,0,,the basic underlying network
 Dialogue: 0,0:07:20.48,0:07:22.28,Chinese,,0,0,0,,最基础的网络
 Dialogue: 0,0:07:22.31,0:07:24.71,English,,0,0,0,,was too complicated for people.
 Dialogue: 0,0:07:22.31,0:07:24.71,Chinese,,0,0,0,,对大众来说太复杂了
-Dialogue: 0,0:07:25.75,0:07:29.57,On Screen,,0,0,0,,{\pos(472,704), \fad(500, 500)}丹尼尔·魏茨纳
-Dialogue: 0,0:07:25.75,0:07:29.57,On Screen - Smaller,,0,0,0,,{\pos(640,776), \fad(500, 500)}麻省理工学院信息政策项目主任
+Dialogue: 0,0:07:25.75,0:07:29.57,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}丹尼尔·魏茨纳
+Dialogue: 0,0:07:25.75,0:07:29.57,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}麻省理工学院信息政策项目主任
 Dialogue: 0,0:07:24.75,0:07:27.75,English,,0,0,0,,Tim pared away
 Dialogue: 0,0:07:24.75,0:07:27.75,Chinese,,0,0,0,,蒂姆消除了
 Dialogue: 0,0:07:27.78,0:07:29.75,English,,0,0,0,,a lot of the complexity
@@ -338,14 +338,14 @@ Dialogue: 0,0:07:54.15,0:07:56.21,English,,0,0,0,,they would have turned off the
 Dialogue: 0,0:07:54.15,0:07:56.21,Chinese,,0,0,0,,他就会关掉万维网
 Dialogue: 0,0:07:56.25,0:07:59.65,English,,0,0,0,,which is just inconceivable to us today.
 Dialogue: 0,0:07:56.25,0:07:59.65,Chinese,,0,0,0,,对今天的我们而言简直不可思议
-Dialogue: 0,0:08:08.00,0:08:11.32,On Screen,,0,0,0,,{\pos(392,704), \fad(500, 500)}CERN 总部
-Dialogue: 0,0:08:08.00,0:08:11.32,On Screen - Smaller,,0,0,0,,{\pos(348,772), \fad(500, 500)}瑞士日内瓦
+Dialogue: 0,0:08:08.00,0:08:11.32,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}CERN 总部
+Dialogue: 0,0:08:08.00,0:08:11.32,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}瑞士日内瓦
 Dialogue: 0,0:08:10.68,0:08:14.78,English,,0,0,0,,CERN is an international physics lab in Switzerland,
 Dialogue: 0,0:08:10.68,0:08:14.78,Chinese,,0,0,0,,CERN 是在瑞士的国际物理实验室
 Dialogue: 0,0:08:14.81,0:08:16.48,English,,0,0,0,,built in '54.
 Dialogue: 0,0:08:14.81,0:08:16.48,Chinese,,0,0,0,,设立于 1954 年
-Dialogue: 0,0:08:18.22,0:08:21.71,On Screen,,0,0,0,,{\pos(384,696), \fad(500, 500)}佩琪·里默
-Dialogue: 0,0:08:18.22,0:08:21.71,On Screen - Smaller,,0,0,0,,{\pos(320,764), \fad(500, 500)}物理学家
+Dialogue: 0,0:08:18.22,0:08:21.71,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}佩琪·里默
+Dialogue: 0,0:08:18.22,0:08:21.71,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}物理学家
 Dialogue: 0,0:08:16.51,0:08:19.05,English,,0,0,0,,12 countries funded it, and then they said,
 Dialogue: 0,0:08:16.51,0:08:19.05,Chinese,,0,0,0,,十二个国家对它投资，然后他们说
 Dialogue: 0,0:08:19.08,0:08:22.01,English,,0,0,0,,"Anybody in the world who wants to do an experiment here,
@@ -673,8 +673,8 @@ Dialogue: 0,0:16:01.05,0:16:04.11,English,,0,0,0,,If Tim hadn't given away the W
 Dialogue: 0,0:16:01.05,0:16:04.11,Chinese,,0,0,0,,如果蒂姆没有把万维网协议贡献出来
 Dialogue: 0,0:16:04.15,0:16:06.21,English,,0,0,0,,you wouldn't seen nearly the same uptake.
 Dialogue: 0,0:16:04.15,0:16:06.21,Chinese,,0,0,0,,你大概就看不到同样的进程了
-Dialogue: 0,0:16:04.27,0:16:08.34,On Screen,,0,0,0,,{\pos(1528,676), \fad(500, 500)}温顿·瑟夫
-Dialogue: 0,0:16:04.27,0:16:08.34,On Screen - Smaller,,0,0,0,,{\pos(1464,752), \fad(500, 500)}互联网共同创始人
+Dialogue: 0,0:16:04.27,0:16:08.34,On Screen,,0,0,0,,{\fad(500,500)\pos(1328,560)}温顿·瑟夫
+Dialogue: 0,0:16:04.27,0:16:08.34,On Screen - Smaller,,0,0,0,,{\fad(500,500)\pos(1204,665)}互联网共同创始人
 Dialogue: 0,0:16:06.25,0:16:08.68,English,,0,0,0,,Free is pretty hard to argue about.
 Dialogue: 0,0:16:06.25,0:16:08.68,Chinese,,0,0,0,,自由是很难争论的一件事
 Dialogue: 0,0:16:08.71,0:16:10.51,English,,0,0,0,,Bob Kahn and I did the same thing.
@@ -797,8 +797,8 @@ Dialogue: 0,0:19:05.65,0:19:08.65,English,,0,0,0,,[man speaking Spanish]
 Dialogue: 0,0:19:05.65,0:19:08.65,Chinese,,0,0,0,,「西班牙语」
 Dialogue: 0,0:19:08.68,0:19:13.05,English,,0,0,0,,In Guatemala, there are 24 different languages.
 Dialogue: 0,0:19:08.68,0:19:13.05,Chinese,,0,0,0,,危地马拉有 24 种语言
-Dialogue: 0,0:19:13.92,0:19:18.86,On Screen,,0,0,0,,{\pos(464,692), \fad(500, 500)}雷娜塔·艾维拉
-Dialogue: 0,0:19:13.92,0:19:18.86,On Screen - Smaller,,0,0,0,,{\pos(476,764), \fad(500, 500)}万维网基金会活动家
+Dialogue: 0,0:19:13.92,0:19:18.86,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}雷娜塔·艾维拉
+Dialogue: 0,0:19:13.92,0:19:18.86,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}万维网基金会活动家
 Dialogue: 0,0:19:13.08,0:19:15.15,English,,0,0,0,,The open Web gave the possibility
 Dialogue: 0,0:19:13.08,0:19:15.15,Chinese,,0,0,0,,开放的万维网让 24 群不同语言的使用者
 Dialogue: 0,0:19:15.18,0:19:18.51,English,,0,0,0,,for these 24 linguistic communities
