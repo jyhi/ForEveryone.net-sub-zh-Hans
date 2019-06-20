@@ -91,7 +91,7 @@ Dialogue: 0,0:02:06.91,0:02:07.95,English,,0,0,0,,No.
 Dialogue: 0,0:02:06.91,0:02:07.95,Chinese,,0,0,0,,不
 Dialogue: 0,0:02:07.98,0:02:09.88,English,,0,0,0,,Bill Gates?
 Dialogue: 0,0:02:07.98,0:02:09.88,Chinese,,0,0,0,,比尔·盖茨？
-Dialogue: 0,0:02:09.90,0:02:10.91,Comments,,0,0,0,,{\pos(32,80)}* 曾任美国副总统（1993 - 2001），任内提出了美国信息高速公路法案，\N推动了互联网的快速发展
+Dialogue: 0,0:02:09.90,0:02:10.91,Comments,,0,0,0,,{\pos(30,80)}* 曾任美国副总统（1993 - 2001），任内提出了美国信息高速公路法案，\N推动了互联网的快速发展
 Dialogue: 0,0:02:09.91,0:02:10.91,English,,0,0,0,,Al Gore*?
 Dialogue: 0,0:02:09.91,0:02:10.91,Chinese,,0,0,0,,阿尔·戈尔*？
 Dialogue: 0,0:02:10.95,0:02:12.31,English,,0,0,0,,Siri?
@@ -534,12 +534,12 @@ Dialogue: 0,0:12:46.55,0:12:49.25,English,,0,0,0,,and I've come across quite a l
 Dialogue: 0,0:12:46.55,0:12:49.25,Chinese,,0,0,0,,我可是见过很多能跳出思维定式的人的
 Dialogue: 0,0:12:53.28,0:12:56.41,English,,0,0,0,,So what should I call it?
 Dialogue: 0,0:12:53.28,0:12:56.41,Chinese,,0,0,0,,那么我该怎么叫它？
-Dialogue: 0,0:12:56.58,0:12:59.91,Comments,,0,0,0,,{\pos(170,80)}* “信息宝库”
+Dialogue: 0,0:12:56.58,0:12:59.91,Comments,,0,0,0,,{\pos(30,45)}* “信息宝库”
 Dialogue: 0,0:12:56.45,0:12:58.05,English,,0,0,0,,I thought about The Information Mine* — TIM.
 Dialogue: 0,0:12:56.45,0:12:58.05,Chinese,,0,0,0,,我想过 The Information Mine*——TIM
 Dialogue: 0,0:12:58.08,0:12:59.91,English,,0,0,0,,That would not be very good,
 Dialogue: 0,0:12:58.08,0:12:59.91,Chinese,,0,0,0,,这不是太好
-Dialogue: 0,0:12:59.96,0:13:07.01,Comments,,0,0,0,,{\pos(211,80)}* Moi 为法语“我”
+Dialogue: 0,0:12:59.96,0:13:07.01,Comments,,0,0,0,,{\pos(30,45)}* Moi 为法语“我”
 Dialogue: 0,0:12:59.95,0:13:02.65,English,,0,0,0,,and Mine of Information would have been "MOI*,"
 Dialogue: 0,0:12:59.95,0:13:02.65,Chinese,,0,0,0,,Mine of Information 又会变成 MOI*
 Dialogue: 0,0:13:02.68,0:13:04.88,English,,0,0,0,,also not very — I'm so sorry —
@@ -550,7 +550,7 @@ Dialogue: 0,0:13:07.05,0:13:08.48,English,,0,0,0,,Call it Mesh.
 Dialogue: 0,0:13:07.05,0:13:08.48,Chinese,,0,0,0,,叫 Mesh 吧
 Dialogue: 0,0:13:08.51,0:13:10.78,English,,0,0,0,,Mesh just sounded too meshy.
 Dialogue: 0,0:13:08.51,0:13:10.78,Chinese,,0,0,0,,Mesh 听起来很 Meshy（纠缠）
-Dialogue: 0,0:13:10.81,0:13:12.91,Comments,,0,0,0,,{\pos(275,80)}* “我从 Mesh 里找到了”
+Dialogue: 0,0:13:10.81,0:13:12.91,Comments,,0,0,0,,{\pos(30,45)}* “我从 Mesh 里找到了”
 Dialogue: 0,0:13:10.81,0:13:12.91,English,,0,0,0,,"I got it out of the mesh."
 Dialogue: 0,0:13:10.81,0:13:12.91,Chinese,,0,0,0,,“我摆脱了 Mesh（混乱）”*
 Dialogue: 0,0:13:12.95,0:13:14.55,English,,0,0,0,,"Here's option A, here's option B.
