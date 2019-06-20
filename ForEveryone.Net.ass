@@ -17,6 +17,7 @@ Style: Chinese,Noto Sans CJK SC,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 Style: English,Noto Sans,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,20,1
 Style: On Screen,Noto Sans CJK SC,128,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: On Screen - Smaller,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Comments,Noto Sans CJK SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -532,12 +533,14 @@ Dialogue: 0,0:12:46.30,0:12:49.00,English,,0,0,0,,and I've come across quite a l
 Dialogue: 0,0:12:46.30,0:12:49.00,Chinese,,0,0,0,,我可是见过很多能跳出思维定式的人的
 Dialogue: 0,0:12:53.03,0:12:56.16,English,,0,0,0,,So what should I call it?
 Dialogue: 0,0:12:53.03,0:12:56.16,Chinese,,0,0,0,,那么我该怎么叫它？
-Dialogue: 0,0:12:56.20,0:12:57.80,English,,0,0,0,,I thought about The Information Mine — TIM.
-Dialogue: 0,0:12:56.20,0:12:57.80,Chinese,,0,0,0,,我想过 The Information Mine——TIM
+Dialogue: 0,0:12:56.33,0:12:59.66,Comments,,0,0,0,,{\pos(170,80)}* “信息宝库”
+Dialogue: 0,0:12:56.20,0:12:57.80,English,,0,0,0,,I thought about The Information Mine* — TIM.
+Dialogue: 0,0:12:56.20,0:12:57.80,Chinese,,0,0,0,,我想过 The Information Mine*——TIM
 Dialogue: 0,0:12:57.83,0:12:59.66,English,,0,0,0,,That would not be very good,
 Dialogue: 0,0:12:57.83,0:12:59.66,Chinese,,0,0,0,,这不是太好
-Dialogue: 0,0:12:59.70,0:13:02.40,English,,0,0,0,,and Mine of Information would have been "MOI,"
-Dialogue: 0,0:12:59.70,0:13:02.40,Chinese,,0,0,0,,Mine of Information 又会变成 MOI
+Dialogue: 0,0:12:59.71,0:13:06.76,Comments,,0,0,0,,{\pos(211,80)}* Moi 为法语“我”
+Dialogue: 0,0:12:59.70,0:13:02.40,English,,0,0,0,,and Mine of Information would have been "MOI*,"
+Dialogue: 0,0:12:59.70,0:13:02.40,Chinese,,0,0,0,,Mine of Information 又会变成 MOI*
 Dialogue: 0,0:13:02.43,0:13:04.63,English,,0,0,0,,also not very — I'm so sorry —
 Dialogue: 0,0:13:02.43,0:13:04.63,Chinese,,0,0,0,,也不是很——抱歉——
 Dialogue: 0,0:13:04.66,0:13:06.76,English,,0,0,0,,Bit egotistical.
@@ -546,8 +549,9 @@ Dialogue: 0,0:13:06.80,0:13:08.23,English,,0,0,0,,Call it Mesh.
 Dialogue: 0,0:13:06.80,0:13:08.23,Chinese,,0,0,0,,叫 Mesh 吧
 Dialogue: 0,0:13:08.26,0:13:10.53,English,,0,0,0,,Mesh just sounded too meshy.
 Dialogue: 0,0:13:08.26,0:13:10.53,Chinese,,0,0,0,,Mesh 听起来很 Meshy（纠缠）
+Dialogue: 0,0:13:10.56,0:13:12.66,Comments,,0,0,0,,{\pos(275,80)}* “我从 Mesh 里找到了”
 Dialogue: 0,0:13:10.56,0:13:12.66,English,,0,0,0,,"I got it out of the mesh."
-Dialogue: 0,0:13:10.56,0:13:12.66,Chinese,,0,0,0,,“我从 Mesh 里找到了” / “我摆脱了混乱（Mesh）”
+Dialogue: 0,0:13:10.56,0:13:12.66,Chinese,,0,0,0,,“我摆脱了 Mesh（混乱）”*
 Dialogue: 0,0:13:12.70,0:13:14.30,English,,0,0,0,,"Here's option A, here's option B.
 Dialogue: 0,0:13:12.70,0:13:14.30,Chinese,,0,0,0,,“有选项 A，有选项 B”
 Dialogue: 0,0:13:14.33,0:13:15.73,English,,0,0,0,,What... what do you think, Tim?"
@@ -1059,7 +1063,7 @@ Dialogue: 0,0:25:15.16,0:25:17.26,Chinese,,0,0,0,,也许不会有 Twitter
 Dialogue: 0,0:25:17.30,0:25:19.73,English,,0,0,0,,Because the cable company will say, "Twitter? This —
 Dialogue: 0,0:25:17.30,0:25:19.73,Chinese,,0,0,0,,因为宽带公司会说：Twitter？这东西……
 Dialogue: 0,0:25:19.76,0:25:20.96,English,,0,0,0,,"How is this gonna make money for us?
-Dialogue: 0,0:25:19.76,0:25:20.96,Chinese,,0,0,0,,……这东西怎么给我们创造利润？
+Dialogue: 0,0:25:19.76,0:25:20.96,Chinese,,0,0,0,,这东西怎么给我们创造利润？
 Dialogue: 0,0:25:21.00,0:25:22.43,English,,0,0,0,,Forget it."
 Dialogue: 0,0:25:21.00,0:25:22.43,Chinese,,0,0,0,,别想了
 Dialogue: 0,0:25:25.23,0:25:27.70,English,,0,0,0,,In developing countries, it becomes critical
