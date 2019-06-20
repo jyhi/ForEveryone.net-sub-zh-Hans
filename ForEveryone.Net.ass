@@ -17,7 +17,7 @@ Style: Chinese,Noto Sans CJK SC,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 Style: English,Noto Sans,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,20,1
 Style: On Screen,Noto Sans CJK SC,128,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: On Screen - Smaller,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Comments,Noto Sans CJK SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Comments,Noto Sans CJK SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,4,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -91,8 +91,9 @@ Dialogue: 0,0:02:06.66,0:02:07.70,English,,0,0,0,,No.
 Dialogue: 0,0:02:06.66,0:02:07.70,Chinese,,0,0,0,,不
 Dialogue: 0,0:02:07.73,0:02:09.63,English,,0,0,0,,Bill Gates?
 Dialogue: 0,0:02:07.73,0:02:09.63,Chinese,,0,0,0,,比尔·盖茨？
-Dialogue: 0,0:02:09.66,0:02:10.66,English,,0,0,0,,Al Gore?
-Dialogue: 0,0:02:09.66,0:02:10.66,Chinese,,0,0,0,,阿尔·戈尔？
+Dialogue: 0,0:02:09.65,0:02:10.66,Comments,,0,0,0,,{\pos(32,80)}* 曾任美国副总统（1993 - 2001），任内提出了美国信息高速公路法案，\N推动了互联网的快速发展
+Dialogue: 0,0:02:09.66,0:02:10.66,English,,0,0,0,,Al Gore*?
+Dialogue: 0,0:02:09.66,0:02:10.66,Chinese,,0,0,0,,阿尔·戈尔*？
 Dialogue: 0,0:02:10.70,0:02:12.06,English,,0,0,0,,Siri?
 Dialogue: 0,0:02:10.70,0:02:12.06,Chinese,,0,0,0,,Siri?
 Dialogue: 0,0:02:12.10,0:02:13.23,English,,0,0,0,,I can Google it for you.
