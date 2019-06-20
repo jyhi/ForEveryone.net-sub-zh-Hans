@@ -120,8 +120,8 @@ Dialogue: 0,0:02:32.48,0:02:34.21,English,,0,0,0,,No, I haven't.
 Dialogue: 0,0:02:32.48,0:02:34.21,Chinese,,0,0,0,,没听说过
 Dialogue: 0,0:02:34.25,0:02:39.31,English,,0,0,0,,For what he's created, it's kind of a surprise that we don't know who he is.
 Dialogue: 0,0:02:34.25,0:02:39.31,Chinese,,0,0,0,,我们竟然不知道这是他创造出来的，这让我有点吃惊
-Dialogue: 0,0:02:39.26,0:02:42.57,On Screen,,0,0,0,,{\fad(500,500)\pos(200,560)}乔纳森·斯特兰
-Dialogue: 0,0:02:39.26,0:02:42.57,On Screen - Smaller,,0,0,0,,{\fad(500,500)\pos(200,665)}法律与计算机科学教授
+Dialogue: 0,0:02:39.26,0:02:42.57,On Screen,,0,0,0,,{\pos(192,560), \fad(500,500)}乔纳森·斯特兰
+Dialogue: 0,0:02:39.26,0:02:42.57,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500,500)}法律与计算机科学教授
 Dialogue: 0,0:02:39.35,0:02:42.75,English,,0,0,0,,The fact that they might not have heard of Tim
 Dialogue: 0,0:02:39.35,0:02:42.75,Chinese,,0,0,0,,人们没听说过蒂姆
 Dialogue: 0,0:02:42.78,0:02:45.11,English,,0,0,0,,is thanks to Tim.
