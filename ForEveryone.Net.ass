@@ -338,8 +338,9 @@ Dialogue: 0,0:07:54.15,0:07:56.21,English,,0,0,0,,they would have turned off the
 Dialogue: 0,0:07:54.15,0:07:56.21,Chinese,,0,0,0,,他就会关掉万维网
 Dialogue: 0,0:07:56.25,0:07:59.65,English,,0,0,0,,which is just inconceivable to us today.
 Dialogue: 0,0:07:56.25,0:07:59.65,Chinese,,0,0,0,,对今天的我们而言简直不可思议
-Dialogue: 0,0:08:08.00,0:08:11.32,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}CERN 总部
+Dialogue: 0,0:08:08.00,0:08:11.32,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}CERN* 总部
 Dialogue: 0,0:08:08.00,0:08:11.32,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}瑞士日内瓦
+Dialogue: 0,0:08:08.00,0:08:11.32,Comments,,0,0,0,,{\pos(30,45), \fad(500, 500)}* 欧洲核子研究组织
 Dialogue: 0,0:08:10.68,0:08:14.78,English,,0,0,0,,CERN is an international physics lab in Switzerland,
 Dialogue: 0,0:08:10.68,0:08:14.78,Chinese,,0,0,0,,CERN 是在瑞士的国际物理实验室
 Dialogue: 0,0:08:14.81,0:08:16.48,English,,0,0,0,,built in '54.
