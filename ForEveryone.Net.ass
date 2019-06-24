@@ -18,6 +18,7 @@ Style: English,Noto Sans,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Style: On Screen,Noto Sans CJK SC,128,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
 Style: On Screen - Smaller,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
 Style: Comments,Noto Sans CJK SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,4,10,10,10,1
+Style: Subsection Titles,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -65,6 +66,7 @@ Dialogue: 0,0:01:32.08,0:01:34.71,English,,0,0,0,,If the Web goes down now, the 
 Dialogue: 0,0:01:32.08,0:01:34.71,Chinese,,0,0,0,,如果万维网现在下线，世界就停止了
 Dialogue: 0,0:01:34.75,0:01:35.75,English,,0,0,0,,Literally.
 Dialogue: 0,0:01:34.75,0:01:35.75,Chinese,,0,0,0,,真的
+Dialogue: 0,0:01:45.71,0:01:48.65,Subsection Titles,,0,0,0,,「谁发明了万维网」
 Dialogue: 0,0:01:49.68,0:01:50.68,English,,0,0,0,,Who invented the World Wide Web?
 Dialogue: 0,0:01:49.68,0:01:50.68,Chinese,,0,0,0,,谁发明了万维网？
 Dialogue: 0,0:01:50.71,0:01:52.05,English,,0,0,0,,No idea. No idea...
@@ -338,9 +340,10 @@ Dialogue: 0,0:07:54.15,0:07:56.21,English,,0,0,0,,they would have turned off the
 Dialogue: 0,0:07:54.15,0:07:56.21,Chinese,,0,0,0,,他就会关掉万维网
 Dialogue: 0,0:07:56.25,0:07:59.65,English,,0,0,0,,which is just inconceivable to us today.
 Dialogue: 0,0:07:56.25,0:07:59.65,Chinese,,0,0,0,,对今天的我们而言简直不可思议
-Dialogue: 0,0:08:08.00,0:08:11.32,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}CERN* 总部
+Dialogue: 0,0:08:02.46,0:08:04.56,Subsection Titles,,0,0,0,,「从 CERN* 出发」
+Dialogue: 0,0:08:02.46,0:08:04.56,Comments,,0,0,0,,{\pos(30,45),}* 欧洲核子研究组织
+Dialogue: 0,0:08:08.00,0:08:11.32,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}CERN 总部
 Dialogue: 0,0:08:08.00,0:08:11.32,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}瑞士日内瓦
-Dialogue: 0,0:08:08.00,0:08:11.32,Comments,,0,0,0,,{\pos(30,45), \fad(500, 500)}* 欧洲核子研究组织
 Dialogue: 0,0:08:10.68,0:08:14.78,English,,0,0,0,,CERN is an international physics lab in Switzerland,
 Dialogue: 0,0:08:10.68,0:08:14.78,Chinese,,0,0,0,,CERN 是在瑞士的国际物理实验室
 Dialogue: 0,0:08:14.81,0:08:16.48,English,,0,0,0,,built in '54.
@@ -533,6 +536,7 @@ Dialogue: 0,0:12:41.95,0:12:46.51,English,,0,0,0,,Tim is the most out-of-the-box
 Dialogue: 0,0:12:41.95,0:12:46.51,Chinese,,0,0,0,,蒂姆是我见过的最能跳出思维定式的人
 Dialogue: 0,0:12:46.55,0:12:49.25,English,,0,0,0,,and I've come across quite a lot of out-of-the-box thinkers.
 Dialogue: 0,0:12:46.55,0:12:49.25,Chinese,,0,0,0,,我可是见过很多能跳出思维定式的人的
+Dialogue: 0,0:12:53.37,0:12:56.35,Subsection Titles,,0,0,0,,「蒂姆得给他的发明起个名字」
 Dialogue: 0,0:12:53.28,0:12:56.41,English,,0,0,0,,So what should I call it?
 Dialogue: 0,0:12:53.28,0:12:56.41,Chinese,,0,0,0,,那么我该怎么叫它？
 Dialogue: 0,0:12:56.58,0:12:59.91,Comments,,0,0,0,,{\pos(30,45)}* “信息宝库”
@@ -739,6 +743,7 @@ Dialogue: 0,0:17:30.21,0:17:32.38,English,,0,0,0,,It was a great example of how 
 Dialogue: 0,0:17:30.21,0:17:32.38,Chinese,,0,0,0,,这是各种工作组合起来的绝佳例子
 Dialogue: 0,0:17:32.41,0:17:35.81,English,,0,0,0,,from around the world could lead to fantastic things.
 Dialogue: 0,0:17:32.41,0:17:35.81,Chinese,,0,0,0,,从世界的各地来，为世界带来美妙
+Dialogue: 0,0:17:40.62,0:17:44.98,Subsection Titles,,0,0,0,,「内容雪崩」
 Dialogue: 0,0:17:46.41,0:17:48.31,English,,0,0,0,,You can now glimpse the future
 Dialogue: 0,0:17:46.41,0:17:48.31,Chinese,,0,0,0,,现在就可以瞥上一眼未来的样子
 Dialogue: 0,0:17:48.35,0:17:50.51,English,,0,0,0,,with nothing more than a modem, a phone line,
@@ -928,6 +933,7 @@ Dialogue: 0,0:22:12.35,0:22:14.15,English,,0,0,0,,And he cares deeply
 Dialogue: 0,0:22:12.35,0:22:14.15,Chinese,,0,0,0,,他十分在乎
 Dialogue: 0,0:22:14.18,0:22:17.81,English,,0,0,0,,that it should end up being what he wanted it to be.
 Dialogue: 0,0:22:14.18,0:22:17.81,Chinese,,0,0,0,,万维网应该达成最开始的使命蓝图
+Dialogue: 0,0:22:20.31,0:22:23.13,Subsection Titles,,0,0,0,,「我最怕的」
 Dialogue: 0,0:22:21.68,0:22:25.01,English,,0,0,0,,For the last 25 years, whenever somebody's asked me
 Dialogue: 0,0:22:21.68,0:22:25.01,Chinese,,0,0,0,,过去的二十五年里，每次有人问我
 Dialogue: 0,0:22:25.05,0:22:28.18,English,,0,0,0,,about what my biggest fear is, I think I always said
