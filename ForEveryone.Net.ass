@@ -5,11 +5,22 @@ Title: ForEveryone.net
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 Original Translation: lmy441900, gloomy-ghost
 Original Script: Unknown
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ForEveryone.net.webm
+Video File: ForEveryone.net.webm
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Scroll Position: 831
+Active Line: 834
+Video Position: 29511
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -17,7 +28,7 @@ Style: Chinese,Noto Sans CJK SC,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0
 Style: English,Noto Sans,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,20,1
 Style: On Screen,Noto Sans CJK SC,128,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
 Style: On Screen - Smaller,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
-Style: Comments,Noto Sans CJK SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,4,10,10,10,1
+Style: Comments,Noto Sans CJK SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
 Style: Subsection Titles,Noto Sans CJK SC,96,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 
 [Events]
@@ -93,7 +104,7 @@ Dialogue: 0,0:02:06.91,0:02:07.95,English,,0,0,0,,No.
 Dialogue: 0,0:02:06.91,0:02:07.95,Chinese,,0,0,0,,不
 Dialogue: 0,0:02:07.98,0:02:09.88,English,,0,0,0,,Bill Gates?
 Dialogue: 0,0:02:07.98,0:02:09.88,Chinese,,0,0,0,,比尔·盖茨？
-Dialogue: 0,0:02:09.90,0:02:10.91,Comments,,0,0,0,,{\pos(30,45)}* 曾任美国副总统（1993 - 2001），任内提出了美国信息高速公路法案，推动了互联网的快速发展
+Dialogue: 0,0:02:09.90,0:02:10.91,Comments,,0,0,0,,* 曾任美国副总统（1993 - 2001），任内提出了美国信息高速公路法案，推动了互联网的快速发展
 Dialogue: 0,0:02:09.91,0:02:10.91,English,,0,0,0,,Al Gore*?
 Dialogue: 0,0:02:09.91,0:02:10.91,Chinese,,0,0,0,,阿尔·戈尔*？
 Dialogue: 0,0:02:10.95,0:02:12.31,English,,0,0,0,,Siri?
@@ -341,7 +352,7 @@ Dialogue: 0,0:07:54.15,0:07:56.21,Chinese,,0,0,0,,他就会关掉万维网
 Dialogue: 0,0:07:56.25,0:07:59.65,English,,0,0,0,,which is just inconceivable to us today.
 Dialogue: 0,0:07:56.25,0:07:59.65,Chinese,,0,0,0,,对今天的我们而言简直不可思议
 Dialogue: 0,0:08:02.46,0:08:04.56,Subsection Titles,,0,0,0,,「从 CERN* 出发」
-Dialogue: 0,0:08:02.46,0:08:04.56,Comments,,0,0,0,,{\pos(30,45),}* 欧洲核子研究组织
+Dialogue: 0,0:08:02.46,0:08:04.56,Comments,,0,0,0,,* 欧洲核子研究组织
 Dialogue: 0,0:08:08.00,0:08:11.32,On Screen,,0,0,0,,{\pos(192,560), \fad(500, 500)}CERN 总部
 Dialogue: 0,0:08:08.00,0:08:11.32,On Screen - Smaller,,0,0,0,,{\pos(192,665), \fad(500, 500)}瑞士日内瓦
 Dialogue: 0,0:08:10.68,0:08:14.78,English,,0,0,0,,CERN is an international physics lab in Switzerland,
@@ -539,12 +550,12 @@ Dialogue: 0,0:12:46.55,0:12:49.25,Chinese,,0,0,0,,我可是见过很多能跳出
 Dialogue: 0,0:12:53.37,0:12:56.35,Subsection Titles,,0,0,0,,「蒂姆得给他的发明起个名字」
 Dialogue: 0,0:12:53.28,0:12:56.41,English,,0,0,0,,So what should I call it?
 Dialogue: 0,0:12:53.28,0:12:56.41,Chinese,,0,0,0,,那么我该怎么叫它？
-Dialogue: 0,0:12:56.58,0:12:59.91,Comments,,0,0,0,,{\pos(30,45)}* “信息宝库”
+Dialogue: 0,0:12:56.58,0:12:59.91,Comments,,0,0,0,,* “信息宝库”
 Dialogue: 0,0:12:56.45,0:12:58.05,English,,0,0,0,,I thought about The Information Mine* — TIM.
 Dialogue: 0,0:12:56.45,0:12:58.05,Chinese,,0,0,0,,我想过 The Information Mine*——TIM
 Dialogue: 0,0:12:58.08,0:12:59.91,English,,0,0,0,,That would not be very good,
 Dialogue: 0,0:12:58.08,0:12:59.91,Chinese,,0,0,0,,这不是太好
-Dialogue: 0,0:12:59.96,0:13:07.01,Comments,,0,0,0,,{\pos(30,45)}* Moi 为法语“我”
+Dialogue: 0,0:12:59.96,0:13:07.01,Comments,,0,0,0,,* Moi 为法语“我”
 Dialogue: 0,0:12:59.95,0:13:02.65,English,,0,0,0,,and Mine of Information would have been "MOI*,"
 Dialogue: 0,0:12:59.95,0:13:02.65,Chinese,,0,0,0,,Mine of Information 又会变成 MOI*
 Dialogue: 0,0:13:02.68,0:13:04.88,English,,0,0,0,,also not very — I'm so sorry —
@@ -555,7 +566,7 @@ Dialogue: 0,0:13:07.05,0:13:08.48,English,,0,0,0,,Call it Mesh.
 Dialogue: 0,0:13:07.05,0:13:08.48,Chinese,,0,0,0,,叫 Mesh 吧
 Dialogue: 0,0:13:08.51,0:13:10.78,English,,0,0,0,,Mesh just sounded too meshy.
 Dialogue: 0,0:13:08.51,0:13:10.78,Chinese,,0,0,0,,Mesh 听起来很 Meshy（纠缠）
-Dialogue: 0,0:13:10.81,0:13:12.91,Comments,,0,0,0,,{\pos(30,45)}* “我从 Mesh 里找到了”
+Dialogue: 0,0:13:10.81,0:13:12.91,Comments,,0,0,0,,* “我从 Mesh 里找到了”
 Dialogue: 0,0:13:10.81,0:13:12.91,English,,0,0,0,,"I got it out of the mesh."
 Dialogue: 0,0:13:10.81,0:13:12.91,Chinese,,0,0,0,,“我摆脱了 Mesh（混乱）”*
 Dialogue: 0,0:13:12.95,0:13:14.55,English,,0,0,0,,"Here's option A, here's option B.
@@ -856,7 +867,7 @@ Dialogue: 0,0:20:26.48,0:20:28.11,English,,0,0,0,,for $2.4 billion.
 Dialogue: 0,0:20:26.48,0:20:28.11,Chinese,,0,0,0,,标额二十四亿美元
 Dialogue: 0,0:20:28.15,0:20:30.81,English,,0,0,0,,Valued between $130 billion,$150 billion —
 Dialogue: 0,0:20:28.15,0:20:30.81,Chinese,,0,0,0,,估值在一千三百亿到一千五百亿之间
-Dialogue: 0,0:20:30.85,0:20:32.38,Comments,,0,0,0,,{\pos(30, 45)}* 首次公开募股；上市
+Dialogue: 0,0:20:30.85,0:20:32.38,Comments,,0,0,0,,* 首次公开募股；上市
 Dialogue: 0,0:20:30.85,0:20:32.38,English,,0,0,0,,The biggest Internet IPO since Google.
 Dialogue: 0,0:20:30.85,0:20:32.38,Chinese,,0,0,0,,谷歌以来最大的互联网企业 IPO
 Dialogue: 0,0:20:32.41,0:20:34.78,English,,0,0,0,,Excitement on the trading floor was palpable.
